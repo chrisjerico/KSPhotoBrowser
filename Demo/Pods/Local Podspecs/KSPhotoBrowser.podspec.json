@@ -22,7 +22,7 @@
   "frameworks": "UIKit",
   "dependencies": {
     "SDWebImage": [
-      "~> 5.0"
+
     ]
   }
 }

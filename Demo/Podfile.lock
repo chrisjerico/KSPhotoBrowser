@@ -1,6 +1,6 @@
 PODS:
   - KSPhotoBrowser (0.3.1):
-    - SDWebImage (~> 5.0)
+    - SDWebImage
   - SDWebImage (5.9.2):
     - SDWebImage/Core (= 5.9.2)
   - SDWebImage/Core (5.9.2)
@@ -9,7 +9,7 @@ DEPENDENCIES:
   - KSPhotoBrowser (from `../`)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - SDWebImage
 
 EXTERNAL SOURCES:
@@ -17,9 +17,9 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  KSPhotoBrowser: 61059046ffdc6d8c47bc0a4ae4b5fef6395f7b53
+  KSPhotoBrowser: 4f244803269172bb95e81522d0391e664b734424
   SDWebImage: 0b42b8719ab0c5257177d5894306e8a336b21cbb
 
 PODFILE CHECKSUM: 554f70c03ecd528e74dcc6fba4777d8e65be64de
 
-COCOAPODS: 1.7.5
+COCOAPODS: 1.9.3
